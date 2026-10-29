@@ -147,7 +147,7 @@ export default function App() {
         </span>
       </div>
 
-      {/* xterm.js mount point — fills remaining height */}
+      {/* xterm.js mount point — fills remaining height of the terminak */}
       <div
         ref={termRef}
         style={{
